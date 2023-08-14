@@ -1,5 +1,18 @@
 body {
+    margin: 0;
+    padding: 0;
     background-color: lightblue;
+}
+
+h1 {
+    font-size: 26px;
+}
+h2 {
+    color: blueviolet;
+}
+p {
+    font-size: 22px;
+    font-family: poppins;
 }
 
 .images {
