@@ -3,7 +3,7 @@ This is a simple photographic web page including some photos and has a short bib
 
 You can have the link to the working implementation  here:
 ```
-
+https://morrismutiso.github.io/project-02/
 ```
 
 
@@ -28,12 +28,12 @@ This section will guide you on how you can setup and run the web page on your ma
 1. Clone the repository to your *local* machine. On your computer open the `Terminal` (**Linux/MacOs**) or `GitBash`/`WSL` (**Windows**)
 
 ```
-git clone: 
+git clone: https://github.com/morrismutiso/project-02
 ```
 
 2. Change into the working directory
 ```
-cd project.readme
+cd project-02.readme
 ```
 
 3. Open in visual studion code
@@ -51,13 +51,13 @@ You can have a good look on the following:
 ## Author 
 This project was built and is maintained by:
 
-- [morrismutiso]()
+- [morrismutiso](https://github.com/morrismutiso)
 
 ## Known issues
 There are no known issues at the current moment.
 
 ## License
-This wwepbage has been distributed under the MIT License.
+This wepbage has been distributed under the MIT License.
 
 
 
